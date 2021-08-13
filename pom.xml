@@ -45,7 +45,7 @@
         <driver.version>1.7.2</driver.version>
         <spark.version>2.4.0</spark.version>
         <graphframes.version>0.7.0-spark2.4-s_2.11</graphframes.version>
-        <bouncycastle.version>1.53</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
     </properties>
 
     <build>
